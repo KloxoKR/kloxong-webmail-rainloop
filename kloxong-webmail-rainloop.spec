@@ -51,7 +51,7 @@ Rainloop webmail is simple, modern & fast web-based email client
 - change product name to kloxong
 - add obsolete for kloxomr 
 
-* Sun May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> 1.11.0.203-1
+* Mon May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> 1.11.0.203-1
 - update
 * Tue Apr 05 2016 Mustafa Ramadhan <mustafa@bigraf.com> 1.9.4.402-1
 - update
